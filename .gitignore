@@ -1,0 +1,5 @@
+Bank+Customer+Churn/
+.ipynb_checkpoints/
+__pycache__/
+*.env
+.DS_Store
