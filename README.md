@@ -34,5 +34,5 @@ I utilized a Random Forest Classifier to establish a baseline for prediction.
 ## How to Use
 
 1. Clone this repository
-2. Install dependencies: pip install pandas seaboard scikit-learn matplotlib
+2. Install dependencies: pip install pandas seaborn scikit-learn matplotlib
 3. Open Bank_Churn_Analysis.ipynb in Jupyter Notebook or VS Code
